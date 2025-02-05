@@ -11,7 +11,7 @@
         "owner": "MyNanIsWrinkly",
         "description": "The one stop shop for all.",
         "coordinates": "X: 247, Y: 91, Z: 1313",
-        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2VmOTIwYjBhYWI0NjAwN2NiNGQzYzUyN2I5NjEwZjRlMzVkMzc3M2Q3NDMxOTE4NGQ5ZWI5ZjIxNDdmODAxOCJ9fX0="
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQwZGUwZTBmOTc3Mjc4YzNkOWE3ZDNjYzNiNjEzOGFiZTg3Y2MwZmNmMGRhZDNlMDA1NjY5MTNjYmVkM2IwZiJ9fX0="
     },
     {
         "name": "Dibzzyy's Fish Stand",
