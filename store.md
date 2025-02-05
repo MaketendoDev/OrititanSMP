@@ -19,5 +19,12 @@
         "description": "Selling delishious fish.",
         "coordinates": "X: 208, Y: 91, Z: 1336",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTcxNTI4NzZiYzNhOTZkZDJhMjI5OTI0NWVkYjNiZWVmNjQ3YzhhNTZhYzg4NTNhNjg3YzNlN2I1ZDhiYiJ9fX0="
+    },
+    {
+        "name": "Hydra's Trial Shop",
+        "owner": "HydraK420",
+        "description": "All in one stop for all of your trial chamber needs without actually doing a trial chamber.",
+        "coordinates": "X: 280, Y: 90, Z: 1344",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZlMmY1MTE2NzdkMzljNDNlYTM3NjUxMmI2OTIxMmU0NWU4MTBkYzljZjk2NmRiY2M4OTgwZDllMDE2NzY3NCJ9fX0="
     }
 ]
