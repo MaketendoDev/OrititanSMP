@@ -26,5 +26,12 @@
         "description": "All in one stop for all of your trial chamber needs without actually doing a trial chamber.",
         "coordinates": "X: 280, Y: 90, Z: 1344",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZlMmY1MTE2NzdkMzljNDNlYTM3NjUxMmI2OTIxMmU0NWU4MTBkYzljZjk2NmRiY2M4OTgwZDllMDE2NzY3NCJ9fX0="
+    },
+    {
+        "name": "Rowan's Pottery Shop",
+        "owner": "Rowan",
+        "description": "Custom Pottery For Low Prices.",
+        "coordinates": "X: 290, Y: 74, Z: 1432",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFkZGIxNGJhZjJlMDhkMDcwY2VmZWYwYTNiMzgzNDk0NDBjZTQ2OTE3MmE5NGRmZjZlMzI2ODQ4MTIzNDI2ZiJ9fX0="
     }
 ]
