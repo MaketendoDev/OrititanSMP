@@ -1,5 +1,12 @@
 [
     {
+        "name": "Shopping District",
+        "owner": "Orititan, Horold, Bernana_",
+        "description": "Foods? Elytras? Head? The all in one place for most shops in the SMP",
+        "coordinates": "X: 185, Y: 91, Z: 1312",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGM3ZDY1YTM5NjZhODJkYzk2OTk1NGFjNjg2MGI1NWRhNzdiZGE1MDMyZThjYzFmMzhlY2UwNGFhOTQwYWFlZCJ9fX0="
+    },
+    {
         "name": "Guardians Flower Shop",
         "owner": "sofie1lilla1234",
         "description": "Selling high-quality flowers.",
