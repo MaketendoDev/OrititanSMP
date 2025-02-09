@@ -33,5 +33,12 @@
         "description": "Custom Pottery For Low Prices.",
         "coordinates": "X: 290, Y: 74, Z: 1432",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWFkZGIxNGJhZjJlMDhkMDcwY2VmZWYwYTNiMzgzNDk0NDBjZTQ2OTE3MmE5NGRmZjZlMzI2ODQ4MTIzNDI2ZiJ9fX0="
+    },
+    {
+        "name": "Niko's Goods n' Food",
+        "owner": "Niko",
+        "description": "Buy cheap good's and food",
+        "coordinates": "X: 232, Y: 88, Z: 1367",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY3ZDVkMzdjZDY0Y2UzZmI1NzM3N2QyNWQ2MTUyYWE0YWMyZTM3OTU0MjQ4ZDVkOTFmODhmYmQ3OTFmNDc2NiJ9fX0="
     }
 ]
