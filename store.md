@@ -51,7 +51,7 @@
     {
         "name": "GK banking",
         "owner": "grayys",
-        "description": "Need a lone? Head over to GK Banking today!!",
+        "description": "Need a loan? Head over to GK Banking today!!",
         "coordinates": "X: 295, Y: 100, Z: 1307",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVmZDY3ZDU2ZmZjNTNmYjM2MGExNzg3OWQ5YjUzMzhkNzMzMmQ4ZjEyOTQ5MWE1ZTE3ZThkNmU4YWVhNmMzYSJ9fX0="
     }
