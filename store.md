@@ -44,15 +44,22 @@
     {
         "name": "Niko's Goods n' Food",
         "owner": "Niko",
-        "description": "Buy cheap good's and food",
+        "description": "Buy cheap good's and food.",
         "coordinates": "X: 232, Y: 88, Z: 1367",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzY3ZDVkMzdjZDY0Y2UzZmI1NzM3N2QyNWQ2MTUyYWE0YWMyZTM3OTU0MjQ4ZDVkOTFmODhmYmQ3OTFmNDc2NiJ9fX0="
-    }
+    },
     {
-        "name": "GK banking",
+        "name": "GK Banking",
         "owner": "grayys",
         "description": "Need a loan? Head over to GK Banking today!!",
         "coordinates": "X: 295, Y: 100, Z: 1307",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTVmZDY3ZDU2ZmZjNTNmYjM2MGExNzg3OWQ5YjUzMzhkNzMzMmQ4ZjEyOTQ5MWE1ZTE3ZThkNmU4YWVhNmMzYSJ9fX0="
+    },
+    {
+        "name": "The Croco Latte",
+        "owner": "music axolotl",
+        "description": "Fantacy & coffee merge into one.",
+        "coordinates": "X: 271, Y: 74, Z: 1432",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJkMTUxNDIxMmEyZmMyYWExODM4NTc1YzA2MzBjZThiZWEyZjY3MDcyNDExNDUyNWU5YTBlNDIzYTliNDA2MiJ9fX0="
     }
 ]
