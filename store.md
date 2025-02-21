@@ -66,7 +66,7 @@
         "name": ".U_got_rolled902's shop",
         "owner": ".U_got_rolled902",
         "description": "Kill eye arrows",
-        "coordinates": "X: 264, Y: 74, Z: 1432",
+        "coordinates": "X: 264, Y: 91 , Z: 1310",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg0ODlkYWZjOTVmMjU1NGNlYjM3NDkzODJmNGY5NDNhNWUwMzUyMzgzMjgxNzAyMWM5YTY4NDVlNGE0NDk5YiJ9fX0="
     }
 ]
