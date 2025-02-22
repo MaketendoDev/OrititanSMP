@@ -66,14 +66,21 @@
         "name": ".U_got_rolled902's shop",
         "owner": ".U_got_rolled902",
         "description": "Kill eye arrows",
-        "coordinates": "X: 264, Y: 91 , Z: 1310",
+        "coordinates": "X: 264, Y: 91, Z: 1310",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTg0ODlkYWZjOTVmMjU1NGNlYjM3NDkzODJmNGY5NDNhNWUwMzUyMzgzMjgxNzAyMWM5YTY4NDVlNGE0NDk5YiJ9fX0="
     },
     {
         "name": "CHEAP!",
         "owner": "Doa",
         "description": "We sell various things cheaper than others!",
-        "coordinates": "X: 251, Y: 95 , Z: 1264",
+        "coordinates": "X: 251, Y: 95, Z: 1264",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzMwN2JmYzhjYThhZDY5YjA0MGY3MzlmMjllY2I1NmFlZDI3ZmUxOWFlMDhlZTZhNDYzZmE3ODM1Yzg5N2EyYSJ9fX0="
+    },
+    {
+        "name": "Josh's Wooly Wool Shop",
+        "owner": "BakewellJosh",
+        "description": "Buy every colour of wool available in the game!",
+        "coordinates": "X: 232, Y: 94, Z: 1250",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTcyMzg5M2RmNGNmYjljNzI0MGZjNDdiNTYwY2NmNmRkZWIxOWRhOTE4M2QzMzA4M2YyYzcxZjQ2ZGFkMjkwYSJ9fX0="
     }
 ]
