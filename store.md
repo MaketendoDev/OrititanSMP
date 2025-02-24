@@ -82,5 +82,12 @@
         "description": "Buy every colour of wool available in the game!",
         "coordinates": "X: 232, Y: 94, Z: 1250",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTcyMzg5M2RmNGNmYjljNzI0MGZjNDdiNTYwY2NmNmRkZWIxOWRhOTE4M2QzMzA4M2YyYzcxZjQ2ZGFkMjkwYSJ9fX0="
+    },
+    {
+        "name": "Zapper's Fireworks",
+        "owner": "Zapper",
+        "description": "Flying Essentials",
+        "coordinates": "X: 298, Y: 79, Z: 1419",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDRmNGI2NTk2NWU5OTA3NjFhZWY0ZTNlNGUxZjhjYmIyYjJiNzhmMDlmZjEzNGVlMDZmMDZlYzU5MDAwYmE4YiJ9fX0="
     }
 ]
