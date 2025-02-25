@@ -59,7 +59,7 @@
         "name": "The Croco Latte",
         "owner": "music axolotl",
         "description": "Fantacy & coffee merge into one.",
-        "coordinates": "X: 271, Y: 92, Z: 1311",
+        "coordinates": "X: 272, Y: 74, Z: 1432",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTJkMTUxNDIxMmEyZmMyYWExODM4NTc1YzA2MzBjZThiZWEyZjY3MDcyNDExNDUyNWU5YTBlNDIzYTliNDA2MiJ9fX0="
     },
     {
