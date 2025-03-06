@@ -89,5 +89,12 @@
         "description": "Flying Essentials",
         "coordinates": "X: 298, Y: 79, Z: 1419",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDRmNGI2NTk2NWU5OTA3NjFhZWY0ZTNlNGUxZjhjYmIyYjJiNzhmMDlmZjEzNGVlMDZmMDZlYzU5MDAwYmE4YiJ9fX0="
+    },
+    {
+        "name": "Grandahd's shop",
+        "owner": "Grandahd",
+        "description": "All the best trims at the best prices.",
+        "coordinates": "X: 290, Y: 100, Z: 1255",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA1NGJlYzVlMDliNjU5ZTYzYmU1MDk2ZGNhN2ZiZDExODhjYjE4M2FkODU3YzFlYzEwMzdjYzE4MTI5ODUifX19"
     }
 ]
