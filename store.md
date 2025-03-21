@@ -96,5 +96,12 @@
         "description": "All the best trims at the best prices.",
         "coordinates": "X: 290, Y: 100, Z: 1255",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA1NGJlYzVlMDliNjU5ZTYzYmU1MDk2ZGNhN2ZiZDExODhjYjE4M2FkODU3YzFlYzEwMzdjYzE4MTI5ODUifX19"
+    },
+    {
+        "name": "The Busy Bee Emporium",
+        "owner": "RoyalNebee",
+        "description": "For all your SWEET treats and essentials! Grab some wings, some explosives and beeutiful decor! Support Bee Nation today!!!!",
+        "coordinates": "X: 264, Y: 85, Z: 1378",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3MjRhOWE0Y2RkNjhiYTQ5NDE1NTYwZTViZTQwYjRhMWM0N2NiNWJlMWQ2NmFlZGI1MmEzMGU2MmVmMmQ0NyJ9fX0="
     }
 ]
