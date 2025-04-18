@@ -105,3 +105,11 @@
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTI3MjRhOWE0Y2RkNjhiYTQ5NDE1NTYwZTViZTQwYjRhMWM0N2NiNWJlMWQ2NmFlZGI1MmEzMGU2MmVmMmQ0NyJ9fX0="
     }
 ]
+    {
+        "name": "Minigame District",
+        "owner": "OriTitan",
+        "description": "Play some fun games, trials and many more in the Minigame District",
+        "coordinates": "X: 757, Y: 67, Z: 1119",
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZjZTdlYWMyZTFmNjVjZDEzYTRiZGFmMDFhY2JiOGI0YmM2MjBlYjQxM2M4NzVmMDQ0YjQxNjMyZjJhMWM2ZCJ9fX0="
+    }
+]
