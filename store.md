@@ -32,14 +32,14 @@
         "owner": ".FamedOcean5131",
         "description": "Come for cheap fireworks and a bit of fun at oceans shop <3",
         "coordinates": "X: 280, Y: 90, Z: 1344",
-        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZlMmY1MTE2NzdkMzljNDNlYTM3NjUxMmI2OTIxMmU0NWU4MTBkYzljZjk2NmRiY2M4OTgwZDllMDE2NzY3NCJ9fX0="
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAyZjQ4ZjM0ZDIyZGVkNzQwNGY3NmU4YTEzMmFmNWQ3OTE5YzhkY2Q1MWRmNmU3YTg1ZGRmYWM4NWFiIn19fQ=="
     },
     {
         "name": "Rowan's Pottery Shop",
         "owner": "Rowan",
         "description": "Custom Pottery For Low Prices.",
         "coordinates": "X: 290, Y: 74, Z: 1432",
-        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzAyZjQ4ZjM0ZDIyZGVkNzQwNGY3NmU4YTEzMmFmNWQ3OTE5YzhkY2Q1MWRmNmU3YTg1ZGRmYWM4NWFiIn19fQ=="
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRhNDdkNTcwZWYxY2Y5MGJjOGFkOTI5NjVkZDY3YmM5ODE1NDkwNjNhMTk2MjIzNmIwYmFhZWQxNWY2Yjc0MiJ9fX0="
     },
     {
         "name": "Niko's Goods n' Food",
