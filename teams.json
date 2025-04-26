@@ -2,7 +2,7 @@
   "RedTeam": {
     "icon": "♦",
     "color": "RED",
-    "players": ["Maketendo", "player2"]
+      "players": ["Maketendo", "HydraK08"]
   },
   "BlueTeam": {
     "icon": "♣",
