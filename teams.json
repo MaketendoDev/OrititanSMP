@@ -1,17 +1,17 @@
 {
   "RedTeam": {
     "icon": "♦",
-    "color": "RED",
-      "players": ["Maketendo", "HydraK08"]
+    "color": "#FF0000",
+    "players": ["Maketendo", "HydraK08"]
   },
   "BlueTeam": {
     "icon": "♣",
-    "color": "BLUE",
+    "color": "#0000FF",
     "players": ["player3", "player4"]
   },
   "GreenTeam": {
     "icon": "♠",
-    "color": "GREEN",
+    "color": "#008000",
     "players": ["player5", "player6"]
   }
 }
