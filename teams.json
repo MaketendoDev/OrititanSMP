@@ -7,7 +7,7 @@
   "BlueTeam": {
     "icon": "♣",
     "color": "#0000FF",
-    "players": ["player3", "player4"]
+    "players": ["OzicScout", "player4"]
   },
   "GreenTeam": {
     "icon": "♠",
