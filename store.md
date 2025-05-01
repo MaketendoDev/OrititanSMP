@@ -118,6 +118,7 @@
         "coordinates": "X: 247, Y: 95, Z: 1265",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M1ODNmNzE1MDlkMDI2MmUzZGMzZjFkMWE0YzZhMWZhNjA0ZWMxN2NjMjA4NjVkOGE2ZDdiOWM2YTQ4YWUwYSJ9fX0="
     }
+    {
             "name": "Combat Arena",
         "owner": "Community",
         "description": "Fight your friends at an all friendly pvp arena!",
