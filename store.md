@@ -110,14 +110,14 @@
         "description": "Play some fun games, trials and many more in the Minigame District",
         "coordinates": "X: 757, Y: 67, Z: 1119",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2ZjZTdlYWMyZTFmNjVjZDEzYTRiZGFmMDFhY2JiOGI0YmM2MjBlYjQxM2M4NzVmMDQ0YjQxNjMyZjJhMWM2ZCJ9fX0="
-    }
+    },
     {
         "name": "Adventure Cavern",
         "owner": "Henrypins",
         "description": "Everything you would need for your adventures across the world!",
         "coordinates": "X: 247, Y: 95, Z: 1265",
         "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2M1ODNmNzE1MDlkMDI2MmUzZGMzZjFkMWE0YzZhMWZhNjA0ZWMxN2NjMjA4NjVkOGE2ZDdiOWM2YTQ4YWUwYSJ9fX0="
-    }
+    },
     {
             "name": "Combat Arena",
         "owner": "Community",
