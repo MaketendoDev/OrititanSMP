@@ -123,7 +123,7 @@
         "owner": "Community",
         "description": "Fight your friends at an all friendly pvp arena!",
         "coordinates": "X: 1261, Y: 95, Z: 1926",
-        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTNkOWJjNjI5NGVjYjg1ZDljNGFmNjYxMzYwMjdmYWY2NzQxM2YxZGJhYmJlMWI2ZGZlZTI4OTA4M2ZjMjA0OSJ9fX0="
+        "headTexture": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTMyMTY4Mjk3YWMxMDkwNGRiYjZiODk0MDU4ZWY3ZGJkZGI2Zjc3Y2RkMjEzNDBkMWYyNWU1M2FjZDUwN2VmMyJ9fX0="
     }
 ]
 
