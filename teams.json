@@ -9,7 +9,7 @@
     "color": "BLUE",
     "players": ["OzicScout", ".Maketendo"]
   },
-  "GreenTeam": {
+  "default": {
     "icon": "♠",
     "color": "GREEN",
     "players": ["player5", "player6"]
