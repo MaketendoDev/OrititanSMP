@@ -10,7 +10,7 @@
     "players": ["OzicScout", ".Maketendo"]
   },
   "default": {
-    "icon": "♠",
+    "icon": "\uE009",
     "color": "GREEN",
     "players": ["player5", "player6"]
   }
